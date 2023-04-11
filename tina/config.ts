@@ -21,9 +21,9 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
+        name: "posttr",
+        label: "Post (Tr)",
+        path: "content/turkish/blog",
         fields: [
           {
             type: "string",
@@ -31,6 +31,26 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "date",
+          },
+          {
+            type: "image",
+            name: "image",
+            label: "image",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "description",
+          },
+          {
+            type: "string",
+            name: "url",
+            label: "url",
           },
           {
             type: "rich-text",
