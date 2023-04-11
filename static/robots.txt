@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://catakoglu.com/sitemap.xml

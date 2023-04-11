@@ -1,0 +1,98 @@
+baseurl = "https://catakoglu.com/"
+title = "Prof. Dr. Alp Burak Çatakoğlu"
+theme = "catakoglu-vex-hugo"
+
+enableEmoji = true
+enableRobotsTXT = true
+canonifyURLs = true
+
+languageCode = "tr"
+DefaultContentLanguage = "tr"
+disableLanguages = ["en"]
+
+googleAnalytics = "UA-30642984-1"
+summarylength = "20"
+
+[Languages]
+[Languages.tr]
+contentDir = "content/turkish"
+copyright = "Kalbimizle Tasarladık [Klinovo](https://klinovo.com/)"
+languageCode = "tr"
+languageName = "tr"
+weight = 1
+[Languages.en]
+contentDir = "content/english"
+copyright = "Designed with our heart [Klinovo](https://klinovo.com/)"
+languageCode = "en-us"
+languageName = "En"
+weight = 2
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.footer]]
+name = "Ana Sayfa"
+url = "/"
+weight = 1
+[[menu.footer]]
+name = "Özgeçmiş"
+url = "ozgecmis"
+weight = 2
+[[menu.footer]]
+name = "Basın"
+url = "basin"
+weight = 3
+[[menu.footer]]
+name = "İletişim"
+url = "randevu"
+weight = 4
+[[menu.main]]
+name = "Ana Sayfa"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Özgeçmiş"
+url = "ozgecmis"
+weight = 2
+[[menu.main]]
+name = "Basın"
+url = "basin"
+weight = 3
+[[menu.main]]
+name = "Anjiyo ve Stent"
+url = "anjiyostent"
+weight = 4
+[[menu.main]]
+name = "Diğer İşlemler"
+url = "islemler"
+weight = 5
+[[menu.main]]
+name = "Randevu Al"
+url = "randevu"
+weight = "6"
+
+[params]
+author = "Alp Burak Çatakoğlu"
+facebook = "https://facebook.com/drcatakoglu"
+og_image = "/images/og.png"
+sitename = "Prof. Dr. Alp Burak Çatakoğlu"
+twitter = "@dralpburak"
+contact_form_action = "https://catakoglu.us1.list-manage.com/subscribe/post?u=672d46cdfe16358e97d8a9311&amp;id=5b46c6623d"
+currency = "₺"
+description = "Prof Dr Alp Burak Çatakoğlu. Girişimsel Kardiyolog. El bileğinden anjiyo ve stent ile ameliyatsız çözümler"
+logo = "images/logo.png"
+logo_width = "100px"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[params.preloader]
+enable = true
+preloader = ""
+[params.subscription]
+mailchimp_form_action = "https://catakoglu.us1.list-manage.com/subscribe/post?u=672d46cdfe16358e97d8a9311&amp;id=5b46c6623d"
+mailchimp_form_name = "b_672d46cdfe16358e97d8a9311_5b46c6623d"

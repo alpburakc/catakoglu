@@ -1,0 +1,11 @@
+- id: "add_to_cart"
+  translation: "Sepete Ekle"
+  
+- id: "send"
+  translation: "Şimdi Gönder"
+  
+- id: "read_more"
+  translation: "Devamını Oku"
+  
+- id: "subscribe"
+  translation: "Abone Ol"

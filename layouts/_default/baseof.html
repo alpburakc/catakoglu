@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="{{ with site.LanguageCode }}{{ . }}{{ else }}tr-tr{{ end }}">
+{{- partial "head.html" . -}}
+
+<body id="body">
+	{{- partial "preloader.html" . -}}
+	{{- partial "header.html" . -}}
+	{{- block "main" . }}{{- end }}
+	{{- partial "footer.html" . -}}
+</body>
+
+</html>

@@ -1,0 +1,46 @@
+---
+enable: true
+item:
+- quote: Alp Burak Çatakoğlu'nu ilk bir televizyon programında izlemiştim. Canlı yayında
+    bilekten anjio yaptı yöntemi ilgimi çekti ve randevu aldım. Şiddetle tavsiye ederim.
+    Hastasını bıkmadan uzun uzun dinliyor, süreç ile ilgili bilgilendiriyor,  konuşarak
+    sizi rahatlatıyor. Doktorumdan çok memnunum.
+  clientThumb: ''
+  clientName: Aynur C.
+  clientDesignation: "2014"
+- quote: Alp Burak Çatakoğlu doktorumdan çok memnunum. Uzun yıllardır kendisine gidiyorum.
+    Alanında çok iyi olduğu için doktor değişikliği yapmadım. Sıcak kanlı biri bilgilendirmeler
+    yapıyor ve sizi yönlendiriyor herkese tavsiye ederim.
+  clientThumb: ''
+  clientName: Bülent N.
+  clientDesignation: "2014"
+- quote: 'Gittiğim hastanede tanıdığım doktorlar sayesinde doktorumla tanıştım. Kesinlikle
+    çok başarılı bir doktor bilgili en önemlisi insan psikolojisinden çok iyi anlayan
+    bir doktor. Tedavim en iyi şekilde sonuç verdi. Hastalarını hassasiyetle muayene
+    ediyor. Tedavim bitmesine rağmen aradığımda beni hiç yanıtsız bırakmıyor. Hastalarıyla
+    iletişimini tedavi bitse de sürdürüyor.
+
+'
+  clientThumb: images/client-logo/clients-1.jpg
+  clientName: Aynur R.
+  clientDesignation: "2014"
+- quote: Acil olarak hastaneye gittiğimde orada yetkili bir arkadaşım bizi Alp beye
+    yönlendirdi. Çok doğru bir yönlendirme oldu. 2 operasyon gerçekleştirdi. Aynı
+    zamanda eşimde bypass oldu 5 damarı açıldı Alp bey tarafından. Her konuda çok
+    memnun kaldık. Halen hastasıyım alp beyin takibindeyim. Doğru teşhis ve hızlı
+    tedavisi ile oldukça başarılı bir doktor.
+  clientThumb: images/client-logo/clients-2.jpg
+  clientName: Zehra T.
+  clientDesignation: "2018"
+- quote: Hocamızı 2015 yılında internetten araştırarak bulduk. Kalp yetmezliği ve
+    geçmişinde bypass ameliyatı bulunan babam Alp Burak hocam sayesinde yeniden doğdu
+    diyebilirim. Bu dünyadaki en iyi kardiyologlardan birisidir. Allah razı olsun.
+  clientThumb: images/client-logo/clients-1.jpg
+  clientName: Taner R.
+  clientDesignation: "2018"
+- quote: Doktoruma yaklaşık 10 senedir gidiyorum. Çok memnunum. Alp Burak hocam çok
+    cana yakın bir doktor. Alanında çok başarılı hastalık konusunda en ince ayrıntısına
+    kadar size bilgi veriyor. Çevremdekilere de mutlaka tavsiye ediyorum.
+  clientThumb: images/client-logo/clients-2.jpg
+  clientName: Ahmet N.
+  clientDesignation: "2014"

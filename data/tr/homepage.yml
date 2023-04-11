@@ -1,0 +1,75 @@
+---
+banner:
+  enable: true
+  title: Prof. Dr. Alp Burak Çatakoğlu
+  content: Koroner Anjiyo ve Stent. Ameliyatsız Çözümler.
+  image: images/alp_kare_3.png
+  button:
+    enable: true
+    label: Randevu Al
+    link: randevu
+features:
+  enable: true
+  title: Ameliyatsız Çözümler.
+  image: images/alp4.png
+  left_side:
+  - title: El Bileğinden Anjiyo ve Stent
+    icon: tf-ion-heart-outline
+    content: Prof. Dr. Alp Burak Çatakoğlu çok ince ve yumuşak malzemeler ile 5-10
+      dakika içinde el bileğinden anjiyo ile koroner damarlarınızı görüntülemekte
+      ve aynı seansta el bileğinden stent işlemi ile kapalı yöntemle tedavi yapabilmektedir.
+  - title: TAVI ile Aort Kapak Değişimi
+    icon: tf-ion-heart-outline
+    content: 'Kapalı yöntemlerle aort kapak için ameliyatsız çözümler mümkün. Yeni
+      protokoller ile ertesi gün taburcu olabilirsiniz. '
+  right_side:
+  - title: MitraClip
+    icon: tf-ion-heart-outline
+    content: Mitral kapak kaçağı ameliyatsız tedavi edilebilir. Kapalı yöntemle ileri
+      mitral kaçağınızı azaltabiliriz. İyi bir planlama ile başarılı sonuçlar mümkün.
+  - title: Renal Denervasyon
+    icon: tf-ion-heart-outline
+    content: Renal denervasyon ile hipertansiyona yeni teknolojiler ile çözüm bulunabilir.
+      Lokal anestezi ile ameliyatsız ve emniyetli. Üstelik yeni protokollerle aynı
+      gün taburculuk mümkün.
+promo:
+  enable: true
+  image: images/alp2.png
+  title: Her Zaman Yanınızdayız.
+  content: Bize aşağıdaki sohbet butonundan ulaşabilirsiniz. Anjiyo filminizi, alınan
+    ameliyat veya stent kararları için size yardımcı olmak isteriz. Teknolojik imkanları,
+    malzemeleri ve teknikleri tedaviniz için nasıl kullanabileceğimizi tüm ayrıntıları
+    ile konuşalım. Size kapalı yöntemlerle, ameliyatsız çözümler sunalım.
+about_product:
+  enable: true
+  title: Kardiyolojinin Geleceği. Şimdi.
+  items:
+  - image: images/stent.png
+    title: Anjiyo Daha Emniyetli ve Daha Konforlu
+    content: Dünyadaki en ince ve yumuşak malzemeler ile el bileğinden yapılan anjiyo
+      ve stent işlemleri daha emniyetli ve daha konforludur. İşlemden hemen sonra
+      ayağa kalkabilirsiniz. Lokal anestezi ile yaklaşık 5 dakika sürmektedir. 1 saat
+      sonra evinize dönebilirsiniz.
+    button:
+      enable: true
+      label: Ayrıntılar
+      link: "/anjiyostent"
+  - image: images/tavi_evolut_alp_burak_catakoglu.png
+    title: İleri Teknolojiler. Sizin İçin.
+    content: Sadece anjiyo ve stent teknolojisi değil, kalp ve damar hastalıklarının
+      her alanında teknoloji ilerlemektedir. Eskiden ameliyat dışında çaresi olmayan
+      pek çok alanda kapalı yöntemlerle tedavi mümkün. TAVI, MitraClip veya renal
+      denervasyon gibi.
+    button:
+      enable: true
+      label: Ayrıntılar
+      link: "/islemler"
+products:
+  enable: false
+  title: Checkout Our All Products
+subscription:
+  enable: true
+  bg_image: images/call-to-action.jpg
+  title: Abone Olun
+  content: Kardiyolojideki gelişmelerden haberdar olun.
+  placeholder: Email adresiniz
