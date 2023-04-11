@@ -1,0 +1,8 @@
+fragment PosttrParts on Posttr {
+  title
+  date
+  image
+  description
+  url
+  body
+}
