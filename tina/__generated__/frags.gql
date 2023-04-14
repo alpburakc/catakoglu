@@ -1,0 +1,25 @@
+fragment BasinParts on Basin {
+  title
+  date
+  youtube
+  kanal
+  body
+}
+
+fragment PosttrParts on Posttr {
+  title
+  date
+  image
+  description
+  url
+  body
+}
+
+fragment PostfrParts on Postfr {
+  title
+  date
+  image
+  description
+  url
+  body
+}

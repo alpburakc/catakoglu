@@ -21,9 +21,9 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
+        name: "basin",
+        label: "Basın",
+        path: "content/turkish/basin",
         fields: [
           {
             type: "string",
@@ -33,6 +33,22 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "datetime",
+            name: "date",
+            label: "date",
+          },
+          
+          {
+            type: "string",
+            name: "youtube",
+            label: "Youtube",
+          },
+          {
+            type: "string",
+            name: "kanal",
+            label: "Kanal",
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body",
@@ -40,6 +56,87 @@ export default defineConfig({
           },
         ],
       },
+      {
+        name: "posttr",
+        label: "Post (Tr)",
+        path: "content/turkish/blog",
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "date",
+          },
+          {
+            type: "image",
+            name: "image",
+            label: "image",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "description",
+          },
+          {
+            type: "string",
+            name: "url",
+            label: "url",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+      {
+        name: "postfr",
+        label: "Post (Fr)",
+        path: "content/french/blog",
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "date",
+          },
+          {
+            type: "image",
+            name: "image",
+            label: "image",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "description",
+          },
+          {
+            type: "string",
+            name: "url",
+            label: "url",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+      
     ],
   },
 });

@@ -1,28 +1,29 @@
 ---
 title: Koroner Anjiyo ve Stent
-date: 2021-02-05T00:00:00.000+03:00
-image: "/images/display.png"
-description: Anjiyo kalp damarlarını görüntülemek için yapılan bir tetkiktir. Stent
-  işlemi ise daralmış koroner damarları açmak için uygulanan kapalı bir tedavi yöntemidir.
-  El bileğinden oldukça güvenlidir.
-url: "/anjiyostent"
-
+date: '2021-02-04T21:00:00.000Z'
+image: /images/display.png
+description: >-
+  Anjiyo kalp damarlarını görüntülemek için yapılan bir tetkiktir. Stent işlemi
+  ise daralmış koroner damarları açmak için uygulanan kapalı bir tedavi
+  yöntemidir. El bileğinden oldukça güvenlidir.
+url: /anjiyostent
 ---
+
 ### **Anjiyo**
 
 Anjiyo kalbi besleyen koroner damarları görüntülemek için yapılan bir tetkiktir. Görüntüleme için X-ışını kullanılır. Koroner anjiyo kalbe giden atardamarlarda bir daralma olup olmadığını görmek için yapılır. Bu yazıda anjiyo işlemini, nasıl yapıldığını ve neden yapıldığını öğreneceksiniz.
 
-{{< youtube id="UtxWe__W1iA" >}}
+{{\< youtube id="UtxWe\_\_W1iA" >}}
 
 ### **Anjiyo Nedir?**
 
 Koroner **anjiyo**, kısaca anjiyo olarak da bilinir, en sık yapılan kardiyoloji tetkiklerinden biridir. Anjiyo, **girişimsel kardiyolog** tarafından, anjiyo laboratuvarında yapılır. Kontrast denilen bir boya maddesi ince ve yumuşak kateterler yardımıyla koroner damara verilerek, X-ışını ile damar içinin görüntülenmesi sağlanır.
 
-{{< youtube id="w1Ydmzqycew" >}}
+{{\< youtube id="w1Ydmzqycew" >}}
 
 **Anjiyo** yıllar içirisinde teknik olarak gelişerek günümüzdeki halini aldı. Daha yumuşak ve ince kateterler ile [el bileğinden](https://anjiyostent.com/bilekten-anjiyo-daha-mi-iyi/) de yapılabilmektedir. Çoğu merkezde hala kasıktan femoral arter denilen atar damar giriş yolu olarak kullanılıyor olsa da, el bileğinden yapılabilen hastalarda komplikasyon oranlarının azaldığı gösterilmiştir. [Bilekten anjiyo](https://anjiyostent.com/bilekten-anjiyo-daha-mi-iyi/) aynı zamanda hastanın hemen işlemden sonra ayağa kalkabilmesine ve 1-2 saat içerisinde taburcu olmasına izin verirken, kasıktan yapılan anjiyo ile hastanın kum torbası ile yaklaşık 6 saat yatakta yatması gerekmektedir.
 
-{{< youtube id="2HqweA_Jw4A" >}}
+{{\< youtube id="2HqweA\_Jw4A" >}}
 
 ### **Anjiyo Nasıl Yapılır? Tüm Ayrıntıları ile Adım Adım Anjiyo İşlemi**
 
@@ -118,11 +119,11 @@ Tecrübeli ellerde hastada ek bazı sorunlar da yoksa anjiyo esnasında **kalp d
 
 **Stent** kalbi besleyen koroner damarlardaki darlıkları veya tıkanıklıkları kalıcı olarak açmak için, bir balon yardımıyla yerleştirilen esneyebilen çok ince tüp şeklinde metal ağlardır.
 
-{{< youtube id="G0vgOYY9e3U" >}}
+{{\< youtube id="G0vgOYY9e3U" >}}
 
 Stentler genellikle tıbbi kullanımlar için özel geliştirilmiş metal alaşımlardan oluşmaktadır. Bu metal alaşımların özellikleri değişebilmektedir. **Yeni nesil** stentler daha ince ve yuvarlatılmış narin metallerden yapılmaktadır. Çoğunlukla belli yüzeyleri polimerler ile kaplanmakta ve polimerlerin üzerinde de tekrar daralmayı önleyen ilaçlar içermektedirler. Bunlar **ilaçlı stent** olarak adlandırılırlar.
 
-{{< youtube id="yMv5TPW-6DE" >}}
+{{\< youtube id="yMv5TPW-6DE" >}}
 
 ### **Neden Stent Gerekiyor?**
 
@@ -135,25 +136,25 @@ Bu darlıklar kritik düzeydeyse açılması gerekmektedir. İlaç tedavisi tek 
 
 Stent ile günümüzde çoğu zor damar ameliyata ihtiyaç duyulmadan açılabilmektedir. “**Stent mi by-pass mı**daha uygun olur?”, bu sorunun cevabı hastanın klinik durumuna ve bazı risk puanlamalarının sonucuna göre verilir.
 
-{{< youtube id="EeCAKdJR5bQ" >}}
+{{\< youtube id="EeCAKdJR5bQ" >}}
 
 ### **Stent İşlemi Nasıl Yapılır?**
 
 **Stent** işlemi koroner damarın içine ilerletilen saç teli inceliğinde bir telin üzerinden özel bir ilerletici sistem ile gerçekleştirilir. Bir balon üzerine sıkıştırılarak yerleştirilmiş stent darlığın olduğu koroner damara ilerletilir ve tam darlığın olduğu noktaya, monitörlerde milimetrik olarak tespit edilerek implante edilir.
 
-Günümüzde stent işlemi genellikle [**anjiyo **](https://anjiyostent.com/anjiyo-nedir-ve-nasil-yapilir/)ile birlikte aynı seansta yapılabilmektedir. Doktorunuz sizi bilgilendirip devam etmenin uygun olduğunu söyleyebilir.
+Günümüzde stent işlemi genellikle [\*\*anjiyo \*\*](https://anjiyostent.com/anjiyo-nedir-ve-nasil-yapilir/)ile birlikte aynı seansta yapılabilmektedir. Doktorunuz sizi bilgilendirip devam etmenin uygun olduğunu söyleyebilir.
 
 **Size aşama aşama stent işlemini anlatalım:**
 
- 1. El bileğinizdeki veya kasığınızdaki yumuşak ve ince kılıftan yine esnek bir kateter kalbinize ilerletilir
- 2. Bu kateterin içinden saç teli inceliğinde bir kılavuz tel sorunlu damara yönlendirilir
- 3. Bu tel bir ray vazifesi görerek üzerinde stentin olduğu ilerletici sisteme yol gösterir
- 4. Stent monitörlerde milimetrik olarak darlığın olduğu noktaya pozisyonlanır
- 5. Doğru yerde olduğuna kara verildiğinde bir balon yardımıyla stent şişirilerek damara genişletilerek yerleştirilir
- 6. Burada doğru basınç ile stentin tamamen damar duvarına temas etmesi sağlanır. İşlemin en önemli adımlarından biri de budur
- 7. Farklı açılardan kontroller yapılarak sorunlu damarın açıldığı teyid edilir
- 8. İçerideki tüm teller ve katederler dışarı çıkarılır
- 9. El bileğindeki veya kasıktaki kılıf çekilir ve bandaj yapılır
+1. El bileğinizdeki veya kasığınızdaki yumuşak ve ince kılıftan yine esnek bir kateter kalbinize ilerletilir
+2. Bu kateterin içinden saç teli inceliğinde bir kılavuz tel sorunlu damara yönlendirilir
+3. Bu tel bir ray vazifesi görerek üzerinde stentin olduğu ilerletici sisteme yol gösterir
+4. Stent monitörlerde milimetrik olarak darlığın olduğu noktaya pozisyonlanır
+5. Doğru yerde olduğuna kara verildiğinde bir balon yardımıyla stent şişirilerek damara genişletilerek yerleştirilir
+6. Burada doğru basınç ile stentin tamamen damar duvarına temas etmesi sağlanır. İşlemin en önemli adımlarından biri de budur
+7. Farklı açılardan kontroller yapılarak sorunlu damarın açıldığı teyid edilir
+8. İçerideki tüm teller ve katederler dışarı çıkarılır
+9. El bileğindeki veya kasıktaki kılıf çekilir ve bandaj yapılır
 10. Hasta odasına alınır. EKG, tansiyon ve nabız kontrolleri yapılır
 11. Özel bir durum yoksa hemen yemek yiyebilir ve su içebilir
 12. El bileğinden yapıldıysa hemen ayağa kalkabilir. Kasıktan yapıldıysa 6-12 saat yatması gerekebilir
@@ -183,19 +184,19 @@ Tartışmalı durumlarda kalp konseyi denilen toplantılarda kardiyologlar ve ka
 
 **Stent** işlemi koroner damarın içine ilerletilen saç teli inceliğinde bir telin üzerinden özel bir ilerletici sistem ile gerçekleştirilir. Bir balon üzerine sıkıştırılarak yerleştirilmiş stent darlığın olduğu koroner damara ilerletilir ve tam darlığın olduğu noktaya, monitörlerde milimetrik olarak tespit edilerek implante edilir.
 
-Günümüzde stent işlemi genellikle [**anjiyo**](https://anjiyostent.com/anjiyo-nedir-ve-nasil-yapilir/)ile birlikte aynı seansta yapılabilmektedir. Doktorunuz sizi bilgilendirip devam etmenin uygun olduğunu söyleyebilir.
+Günümüzde stent işlemi genellikle \*\*[anjiyo](https://anjiyostent.com/anjiyo-nedir-ve-nasil-yapilir/)\*\*ile birlikte aynı seansta yapılabilmektedir. Doktorunuz sizi bilgilendirip devam etmenin uygun olduğunu söyleyebilir.
 
 **Size aşama aşama stent işlemini anlatalım:**
 
- 1. El bileğinizdeki veya kasığınızdaki yumuşak ve ince kılıftan yine esnek bir kateter kalbinize ilerletilir
- 2. Bu kateterin içinden saç teli inceliğinde bir kılavuz tel sorunlu damara yönlendirilir
- 3. Bu tel bir ray vazifesi görerek üzerinde stentin olduğu ilerletici sisteme yol gösterir
- 4. Stent monitörlerde milimetrik olarak darlığın olduğu noktaya pozisyonlanır
- 5. Doğru yerde olduğuna kara verildiğinde bir balon yardımıyla stent şişirilerek damara genişletilerek yerleştirilir
- 6. Burada doğru basınç ile stentin tamamen damar duvarına temas etmesi sağlanır. İşlemin en önemli adımlarından biri de budur
- 7. Farklı açılardan kontroller yapılarak sorunlu damarın açıldığı teyid edilir
- 8. İçerideki tüm teller ve katederler dışarı çıkarılır
- 9. El bileğindeki veya kasıktaki kılıf çekilir ve bandaj yapılır
+1. El bileğinizdeki veya kasığınızdaki yumuşak ve ince kılıftan yine esnek bir kateter kalbinize ilerletilir
+2. Bu kateterin içinden saç teli inceliğinde bir kılavuz tel sorunlu damara yönlendirilir
+3. Bu tel bir ray vazifesi görerek üzerinde stentin olduğu ilerletici sisteme yol gösterir
+4. Stent monitörlerde milimetrik olarak darlığın olduğu noktaya pozisyonlanır
+5. Doğru yerde olduğuna kara verildiğinde bir balon yardımıyla stent şişirilerek damara genişletilerek yerleştirilir
+6. Burada doğru basınç ile stentin tamamen damar duvarına temas etmesi sağlanır. İşlemin en önemli adımlarından biri de budur
+7. Farklı açılardan kontroller yapılarak sorunlu damarın açıldığı teyid edilir
+8. İçerideki tüm teller ve katederler dışarı çıkarılır
+9. El bileğindeki veya kasıktaki kılıf çekilir ve bandaj yapılır
 10. Hasta odasına alınır. EKG, tansiyon ve nabız kontrolleri yapılır
 11. Özel bir durum yoksa hemen yemek yiyebilir ve su içebilir
 12. El bileğinden yapıldıysa hemen ayağa kalkabilir. Kasıktan yapıldıysa 6-12 saat yatması gerekebilir
