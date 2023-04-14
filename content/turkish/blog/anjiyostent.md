@@ -13,17 +13,17 @@ url: /anjiyostent
 
 Anjiyo kalbi besleyen koroner damarları görüntülemek için yapılan bir tetkiktir. Görüntüleme için X-ışını kullanılır. Koroner anjiyo kalbe giden atardamarlarda bir daralma olup olmadığını görmek için yapılır. Bu yazıda anjiyo işlemini, nasıl yapıldığını ve neden yapıldığını öğreneceksiniz.
 
-{{\< youtube id="UtxWe\_\_W1iA" >}}
+{{< youtube id="UtxWe__W1iA" >}}
 
 ### **Anjiyo Nedir?**
 
 Koroner **anjiyo**, kısaca anjiyo olarak da bilinir, en sık yapılan kardiyoloji tetkiklerinden biridir. Anjiyo, **girişimsel kardiyolog** tarafından, anjiyo laboratuvarında yapılır. Kontrast denilen bir boya maddesi ince ve yumuşak kateterler yardımıyla koroner damara verilerek, X-ışını ile damar içinin görüntülenmesi sağlanır.
 
-{{\< youtube id="w1Ydmzqycew" >}}
+{{< youtube id="w1Ydmzqycew" >}}
 
 **Anjiyo** yıllar içirisinde teknik olarak gelişerek günümüzdeki halini aldı. Daha yumuşak ve ince kateterler ile [el bileğinden](https://anjiyostent.com/bilekten-anjiyo-daha-mi-iyi/) de yapılabilmektedir. Çoğu merkezde hala kasıktan femoral arter denilen atar damar giriş yolu olarak kullanılıyor olsa da, el bileğinden yapılabilen hastalarda komplikasyon oranlarının azaldığı gösterilmiştir. [Bilekten anjiyo](https://anjiyostent.com/bilekten-anjiyo-daha-mi-iyi/) aynı zamanda hastanın hemen işlemden sonra ayağa kalkabilmesine ve 1-2 saat içerisinde taburcu olmasına izin verirken, kasıktan yapılan anjiyo ile hastanın kum torbası ile yaklaşık 6 saat yatakta yatması gerekmektedir.
 
-{{\< youtube id="2HqweA\_Jw4A" >}}
+{{< youtube id="2HqweA\_Jw4A" >}}
 
 ### **Anjiyo Nasıl Yapılır? Tüm Ayrıntıları ile Adım Adım Anjiyo İşlemi**
 
@@ -119,11 +119,11 @@ Tecrübeli ellerde hastada ek bazı sorunlar da yoksa anjiyo esnasında **kalp d
 
 **Stent** kalbi besleyen koroner damarlardaki darlıkları veya tıkanıklıkları kalıcı olarak açmak için, bir balon yardımıyla yerleştirilen esneyebilen çok ince tüp şeklinde metal ağlardır.
 
-{{\< youtube id="G0vgOYY9e3U" >}}
+{{< youtube id="G0vgOYY9e3U" >}}
 
 Stentler genellikle tıbbi kullanımlar için özel geliştirilmiş metal alaşımlardan oluşmaktadır. Bu metal alaşımların özellikleri değişebilmektedir. **Yeni nesil** stentler daha ince ve yuvarlatılmış narin metallerden yapılmaktadır. Çoğunlukla belli yüzeyleri polimerler ile kaplanmakta ve polimerlerin üzerinde de tekrar daralmayı önleyen ilaçlar içermektedirler. Bunlar **ilaçlı stent** olarak adlandırılırlar.
 
-{{\< youtube id="yMv5TPW-6DE" >}}
+{{< youtube id="yMv5TPW-6DE" >}}
 
 ### **Neden Stent Gerekiyor?**
 
@@ -136,7 +136,7 @@ Bu darlıklar kritik düzeydeyse açılması gerekmektedir. İlaç tedavisi tek 
 
 Stent ile günümüzde çoğu zor damar ameliyata ihtiyaç duyulmadan açılabilmektedir. “**Stent mi by-pass mı**daha uygun olur?”, bu sorunun cevabı hastanın klinik durumuna ve bazı risk puanlamalarının sonucuna göre verilir.
 
-{{\< youtube id="EeCAKdJR5bQ" >}}
+{{< youtube id="EeCAKdJR5bQ" >}}
 
 ### **Stent İşlemi Nasıl Yapılır?**
 
